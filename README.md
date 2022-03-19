@@ -25,6 +25,7 @@ There is also a **drag n drop GUI Editor**. Look at the [Editor](https://github.
 
 <p align="center">
 
+$s_1$
 
 Getting Started
 ===
